@@ -1,0 +1,21 @@
+Project Todo List - Updated May 26, 2025
+
+HIGH PRIORITY:
+- Finish file backup rotation script
+- Complete error handling module
+- Update documentation for API v2.0
+
+MEDIUM PRIORITY:
+- Refactor database access layer
+- Create automated test suite
+- Implement caching for frequent queries
+
+LOW PRIORITY:
+- Optimize image processing algorithm
+- Add dark mode to UI
+- Research new logging frameworks
+
+NOTES:
+Meeting scheduled with client on June 2nd
+Remember to backup database before migration
+Contact support about license renewal
