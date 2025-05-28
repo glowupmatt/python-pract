@@ -56,9 +56,5 @@ def file_backup(log_file):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python file_backup_rotation.py <path_to_file>")
-        print("Please provide a file path as an argument.")
-    else:
         file_path = sys.argv[1]
         file_backup(file_path)
